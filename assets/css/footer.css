@@ -1,0 +1,17 @@
+.logos-container {
+  height: 94px;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+
+.nav-container {
+  height: 94px;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+
+.nav-container span {
+  color: var(--color-text-secondary);
+}
